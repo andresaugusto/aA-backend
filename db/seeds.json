@@ -1,0 +1,36 @@
+[
+    {
+        "gallery": "Virtual",
+        "projectType": "Web Design",
+        "title": "sim[]n",
+        "subtitle": "Deconstructing the Tactile",
+        "dateCreated": "2020",
+        "medium": "Vanilla JS x CSS3",
+        "externalLink1": "https://andresaugusto.github.io/simon/",
+        "externalLink2": "https://github.com/andresaugusto/simon",
+        "designRole1": "Andrés Augusto Ortiz Montalvo (Frontend Design and Game Logic Recreation)",
+        "designRole2": "Ralph Baer in association with Marvin Glass & Associates (Simon, 1978 - The game and Its patents are held by Milton Bradley, the original manufacturer)",
+        "premise": "The 1978 audio/visual challenge of memory, abstracted into the universally accessible.",
+        "paragraph1": "Physically, the original iteration of this game is designed as a compact object that can be easily managed whilst in the act of shifting hands while reaching for buttons. A virtual iteration delegates the 'handling' of the object to the mobile device or the pointing control (ie: a phone or a mouse), thus revealing a larger gamut of possibilities for its visual representation.",
+        "image1": "https://github.com/andresaugusto/simon/blob/master/images/IMG_6077.png",
+        "image2": "https://github.com/andresaugusto/simon/blob/master/images/IMG_6078.png"
+    },
+    {
+        "gallery": "Virtual",
+        "projectType": "Web Design",
+        "title": "Br",
+        "subtitle": "Access Illicit",
+        "dateCreated": "2020",
+        "medium": "React.js (w/ Hooks & Router) x CSS3",
+        "externalLink1": "https://andresaugusto.github.io/Br/",
+        "externalLink2": "https://github.com/andresaugusto/Br",
+        "designRole1": "Andrés Augusto Ortiz Montalvo (Frontend Design and App Logic)",
+        "designRole2": "Tim Biles (Creation of API database 'The Breaking Bad API', which powers the platform)",
+        "premise": "Powered by Tim Biles' 'The Breaking Bad API', this application is a portal to information about the show's characters, episodes, and note-worthy quotes.",
+        "paragraph1": "Availability for free-to-use databases is not scarce these days. As an excercise of creating something arguably new from any existing thing, especially this topic, brought to mind the flagrant and uncompromising fashion of Marcel Duchamp's DADA readymades like 'Fountain' and 'L.H.O.O.Q.'. 'Br' takes the already uncompromising and delivers it filter-less.",
+        "image1": "https://github.com/andresaugusto/Br/blob/master/br/src/images/IMG_6185.png",
+        "image2": "https://github.com/andresaugusto/Br/blob/master/br/src/images/IMG_6187.png",
+        "image3": "https://github.com/andresaugusto/Br/blob/master/br/src/images/IMG_6186.png",
+        "image4": "https://github.com/andresaugusto/Br/blob/master/br/src/images/IMG_6189.png"
+    }
+]
