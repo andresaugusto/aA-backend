@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 const mongoURI = 
     process.env.NODE_ENV === "production" 
-    ? process.env.MONGODB_URI 
+    ? process.env.DB_URL 
     : "mongodb://localhost/aa-portfolio"
 
 mongoose.connect(mongoURI, {
