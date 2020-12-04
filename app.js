@@ -16,7 +16,8 @@ const bodyParser = require('body-parser')
 const cors = require('cors')
 
 //hide DB connection credentials
-require('dotenv/config')
+// require('dotenv/config')
+require('dotenv').config()
 
 
 
