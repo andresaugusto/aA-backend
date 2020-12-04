@@ -1,5 +1,5 @@
 //require Project model
-const Project =require('../models/Project')
+const Project =require('../models/project')
 
 //require data
 const seedData = require('./seeds.json')
